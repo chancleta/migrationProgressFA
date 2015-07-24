@@ -1,0 +1,24 @@
+*CD_BCH_SECTIONS TEST METHODS:
+	1	+Fee_BCH_Scenario_1 (JOSE: Migration completed, test not passing because some values don't match)
+	2	+Fee_BCH_Scenario_2_1
+	3	+Fee_BCH_Scenario_2_2
+	4	+Fee_BCH_Scenario_2_3
+	5	+Fee_BCH_Scenario_2_4
+	6	+Fee_BCH_Scenario_2_5
+	7	+Fee_BCH_Scenario_2_6
+	8	+Fee_BCH_Scenario_3 (JOSE: In Progress)
+	9	+Fee_BCH_Scenario_4
+	10	+FTR4_ITR41_US_530784_TC_538053_SC1 (LUIS: In Progress)
+	11	+FTR4_ITR41_US_530784_TC_538058_SC2
+	12	+FTR4_ITR41_US_530784_TC_538067_SC3
+	13	+FTR4_ITR41_US_530784_TC_538072_SC4
+	14	+Iteration52_473130_1
+	15	+Iteration52_473130_2
+	16	+Iteration52_473130_3
+	17	+Iteration52_473130_4
+	18	+Iteration52_473130_5
+	19	+REG_FEE_05
+	20	+REG_FEE_06
+	21	+REG_FEE_07
+	22	+REG_FEE_08
+	23	+REG_FEE_09
